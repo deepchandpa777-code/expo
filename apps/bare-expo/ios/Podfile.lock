@@ -2867,7 +2867,7 @@ PODS:
     - ReactNativeDependencies
     - RNWorklets
     - Yoga
-  - RNScreens (4.16.0):
+  - RNScreens (4.18.0):
     - hermes-engine
     - RCTRequired
     - RCTTypeSafety
@@ -2889,9 +2889,9 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - ReactNativeDependencies
-    - RNScreens/common (= 4.16.0)
+    - RNScreens/common (= 4.18.0)
     - Yoga
-  - RNScreens/common (4.16.0):
+  - RNScreens/common (4.18.0):
     - hermes-engine
     - RCTRequired
     - RCTTypeSafety
@@ -3761,7 +3761,7 @@ SPEC CHECKSUMS:
   EXUpdates: 83e4d666a085b44149f3b21d5bd057ad37b2c3e5
   EXUpdatesInterface: 1436757deb0d574b84bba063bd024c315e0ec08b
   FBLazyVector: 52b0f416af6f973bf0646c3a022af7f37bb4267b
-  hermes-engine: 696bcee130dd69e9b6d864b5afbffb1ea6ad6e83
+  hermes-engine: 431bacd79019aea4b958f26d092587ef7023310e
   libavif: 84bbb62fb232c3018d6f1bab79beea87e35de7b7
   libdav1d: 23581a4d8ec811ff171ed5e2e05cd27bad64c39f
   libwebp: 02b23773aedb6ff1fd38cec7a77b81414c6842a8
@@ -3779,7 +3779,7 @@ SPEC CHECKSUMS:
   React: e1b84e495bfc23bc9cc895e39c27f338ea088c47
   React-callinvoker: eceabbac78a5984ee3d9d8a80db17bb9dbf94630
   React-Core: 753f0a5158455f594509c6822099e76afa55fcfe
-  React-Core-prebuilt: 1231da986dc56ecab286d3582b9237b0ed22b220
+  React-Core-prebuilt: ac046ad229534b932d18a004310ec36178fbbbf6
   React-CoreModules: ee46edea9f9e23116f2102dee3388cd94e7bcf63
   React-cxxreact: f94edbcb17730120c699a7175d1f7d163637979a
   React-debug: fab1f173e686c3e14e13ca1dea80bf634240e0e7
@@ -3848,14 +3848,14 @@ SPEC CHECKSUMS:
   ReactAppDependencyProvider: c4afaac4944902913a2b6a59ed4c69f4ec3c400f
   ReactCodegen: a356953c550c6919015c97bea2b7bea61299aca0
   ReactCommon: d3b14a239aae759fb131cce829331eda18820956
-  ReactNativeDependencies: db92ae6f0e290aa53434df9440bea77c71f6d953
+  ReactNativeDependencies: e3f4bf74ec9575c535463ac245b03aaa00feda1a
   RNCAsyncStorage: e85a99325df9eb0191a6ee2b2a842644c7eb29f4
   RNCMaskedView: 3c9d7586e2b9bbab573591dcb823918bc4668005
   RNCPicker: 38a9deb903d9a8ae18b598bac727e6c84b3cf0fa
   RNDateTimePicker: 6fdd63f5d1e0f21faf4cc8674957c52958a7efae
   RNGestureHandler: 72efe2ab9d5d1b1d25b96f3ad3d174992f3bad87
   RNReanimated: a8df76e5dd2315dfd8711d7937ec3e0e09800c74
-  RNScreens: dd61bc3a3e6f6901ad833efa411917d44827cf51
+  RNScreens: 448161bce0b7d670222bf4ac967b0c3449cdcefa
   RNSVG: 595d31b6cd45e92424c6b623bd93e1e9b6aa8b79
   RNWorklets: c181ebc224265a35743abc490e54a5cf66eb2add
   SDWebImage: f29024626962457f3470184232766516dee8dfea
